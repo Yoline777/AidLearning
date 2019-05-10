@@ -8,7 +8,14 @@ Aidlearning是一个手机可用的Python编程框架。将Linux系统移植到�
 
 ---
 
-# Support
+## Support most common deep learning frameworks
+## 支持大部分常用的深度学习框架
+
+* [Caffe](https://github.com/BVLC/caffe)
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
+* [Mxnet](https://github.com/apache/incubator-mxnet)
+* [Keras](https://github.com/keras-team/keras)
+* [ncnn](https://github.com/Tencent/ncnn)
 
 ---
 
