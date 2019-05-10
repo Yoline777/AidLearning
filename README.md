@@ -2,9 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://raw.githubusercontent.com/Tencent/ncnn/master/LICENSE.txt) 
 
-aidlearning
+Aidlearning is a remote programming framwork for mobile devices.  
 
-aindlearning
 
 ---
 
