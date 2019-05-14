@@ -1,6 +1,6 @@
 # AidLearning
 
-[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://raw.githubusercontent.com/Yoline777/AidLearning/master/LICENSE) 
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://github.com/Yoline777/AidLearning/blob/master/LICENSE) 
 
 Aidlearning is a Python programming framwork for mobile devices. In addition to some of the features available in the Linux environment, Aidlearning has supported GUI and neural network environments. For example, Caffe, Tensorflow, Mxnet, ncnn, Keras are perfectly supported.
 
