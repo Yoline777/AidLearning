@@ -11,8 +11,7 @@ Aidlearning是一个手机可用的Python编程框架。将Linux系统移植到�
 ### Support most common deep learning frameworks
 ### 支持大部分常用的深度学习框架
 
-![](https://github.com/Yoline777/AidLearning/blob/master/LICENSE/images/screen4.jpg)
-
+![](https://github.com/Yoline777/AidLearning/blob/master/images/screen4.jpg)
 * [Caffe](https://github.com/BVLC/caffe)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Mxnet](https://github.com/apache/incubator-mxnet)
@@ -34,7 +33,7 @@ You just need download the aidlux.apk, and install it, it only 7M size.
 
 We fixed Graphical User Interface for the Linux on Andorid(It has been pruned by andorid!), so you can display results and debug quickly. For instance, You can use opencv to open and view camera!
 
-![](https://github.com/Yoline777/AidLearning/blob/master/LICENSE/images/screen5.jpg)
+![](https://github.com/Yoline777/AidLearning/blob/master/images/screen5.jpg)
 
 ### Features
 ### 特点概述
@@ -45,7 +44,6 @@ We fixed Graphical User Interface for the Linux on Andorid(It has been pruned by
 ### Example
 
 Face Landmark (106 keypoints ncnn) 15fps in mobile phone
-![](https://github.com/Yoline777/AidLearning/blob/master/LICENSE/images/screen5.jpg)
 
 Facencnn(mobiefacenet ncnn) 15fps in mobile phone
 
