@@ -68,7 +68,7 @@ body posenet for multi-person(converted from google ) 7fps in mobile phone
 Stylized picture(GAN ) 3fps in mobile phone .....
 
 <figure class="third">
-    <img src="images/Screen5.jpg">
-    <img src="images/screen21.jpg">
-    <img src="images/screen22.jpg">
+    <img src="images/Screen5.jpg" width="300" >
+    <img src="images/screen21.jpg" width="300" >
+    <img src="images/screen22.jpg" width="300" >
 </figure>
