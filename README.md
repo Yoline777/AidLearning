@@ -67,5 +67,8 @@ body posenet for multi-person(converted from google ) 7fps in mobile phone
 
 Stylized picture(GAN ) 3fps in mobile phone .....
 
-![](https://github.com/Yoline777/AidLearning/blob/master/images/screen22.jpg)
-![](https://github.com/Yoline777/AidLearning/blob/master/images/screen21.jpg)
+<figure class="third">
+    <img src="images/Screen5.jpg">
+    <img src="images/screen21.jpg">
+    <img src="images/screen22.jpg">
+</figure>
