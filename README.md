@@ -66,13 +66,3 @@ body posenet for single person(converted from google ) 10fps in mobile phone
 body posenet for multi-person(converted from google ) 7fps in mobile phone
 
 Stylized picture(GAN ) 3fps in mobile phone .....
-
-# cap1
-## cap2
-### cap3
-
-* aaa
-** aaa
-*** aaa
-**aaa**
-***aaa***
