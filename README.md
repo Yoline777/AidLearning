@@ -13,6 +13,7 @@ Aidlearning是一个手机可用的Python编程框架。将Linux系统移植到�
 <p align="center">
 	<img src="images/screen4.jpg"  width="360" >
 </p>
+
 * [Caffe](https://github.com/BVLC/caffe)
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 * [Mxnet](https://github.com/apache/incubator-mxnet)
@@ -27,6 +28,8 @@ Aidlearning是一个手机可用的Python编程框架。将Linux系统移植到�
 You just need download the aidlux.apk, and install it, it only 7M size.
 * http://www.aidlearning.net/downloads/aidlux-05-10.apk
 
+PC can connect to mobile by using **ssh-keygen**. Generate a new key pair with ***ssh-keygen*** in your PC. Then copy the public half of the key pair to your mobile. For instance, Copy ***/Users/yourname/.ssh/id_rsa.pub*** to your mobile's ***~/.ssh*** and rename it to ***authorized_keys***. Now, you can connenct to your mobile by command ***ssh USER@x.x.x.x***
+
 ---
 
 ### Graphical User Interface
@@ -38,11 +41,17 @@ We fixed Graphical User Interface for the Linux on Andorid(It has been pruned by
 	<img src="images/Screen5.jpg"  width="360" >
 </p>
 
+---
+
 ### Features
 ### 特点概述
 
 * You can coding on your phone anywhere, anytime. Every inch of fragmentation have been fully utilized. Your creativity can be instantly realized with a flash of inspiration.
 * PC is an alternative way to connect to Aidlearning, you can open the url:mobilephone'sip:8900/ in the pc to Editing codes files(python files storing in the AidLearnig ) in the pc when the mobile phone and the pc in the same network group.
+* Most popular deep learning framework have been integrated, such as caffe, tensorflow, mxnet and so on.
+* Totally free
+
+---
 
 ### Example
 
