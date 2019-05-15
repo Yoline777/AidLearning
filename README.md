@@ -28,7 +28,7 @@ Aidlearning是一个手机可用的Python编程框架。将Linux系统移植到�
 You just need download the aidlux.apk, and install it, it only 7M size.
 * http://www.aidlearning.net/downloads/aidlux-05-10.apk
 
-PC can connect to mobile by using **ssh-keygen**. Generate a new key pair with ***ssh-keygen*** in your PC. Then copy the public half of the key pair to your mobile. For instance, Copy ***/Users/yourname/.ssh/id_rsa.pub*** to your mobile's ***~/.ssh*** and rename it to ***authorized_keys***. Now, you can connenct to your mobile by command ***ssh USER@x.x.x.x***
+PC can connect to mobile by using **ssh-keygen**. Generate a new key pair with ***ssh-keygen*** in your PC. Then copy the public half of the key pair to your mobile. For instance, Copy ***/Users/yourname/.ssh/id_rsa.pub*** to your mobile's ***~/.ssh*** and rename it to ***authorized_keys***. Now, you can connenct to your mobile by command ***ssh USER@IP***
 
 ---
 
