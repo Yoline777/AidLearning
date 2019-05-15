@@ -67,7 +67,5 @@ body posenet for multi-person(converted from google ) 7fps in mobile phone
 
 Stylized picture(GAN ) 3fps in mobile phone .....
 
-
-<img src="images/Screen5.jpg" align = "left" width="300" >
-<img src="images/screen21.jpg" align = "center" width="300" >
-<img src="images/screen22.jpg" align = "right" width="300" >
+<img src="images/screen21.jpg" align = "left" width="360" >
+<img src="images/screen22.jpg" align = "right" width="360" >
