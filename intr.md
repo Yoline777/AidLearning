@@ -1,9 +1,15 @@
 # 使用说明
 ### 目录
-* <a href='## 下载'>⚘ 下载</a>
-	* <a href='## 下载'>⚘ 下载</a>
-* <a href='## 界面介绍'>⚘ 界面介绍</a>
-* <a href='## 使用说明'>⚘ 使用说明</a>
+* <a href='#下载'>⚘ 下载</a>
+* <a href='#界面介绍'>⚘ 界面介绍</a>
+	* <a href='#我的电脑'>我的电脑</a>
+	* <a href='#AidCode'>AidCode</a>
+	* <a href='#终端'>终端</a>
+	* <a href='#其他'>其他</a>
+* <a href='#使用说明'>⚘ 使用说明</a>
+	* <a href='#下载安装'>下载安装</a>
+	* <a href='#AidCode介绍'>AidCode介绍</a>
+	* <a href='#电脑通过ssh连接'>电脑通过ssh连接</a>
 
 ## 下载
 可以在各大手机应用市场或者Github上搜索AidLearning下载。
