@@ -14,5 +14,5 @@
 ### 我的电脑
 
 <p align=left>
-	<img src="image/20190828155827.png" width="300" /><img src="image/20190828160021.png" width="300" />
+	<img src="images/20190828155827.png" width="300" /><img src="images/20190828160021.png" width="300" />
 </p>
