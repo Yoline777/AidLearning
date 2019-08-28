@@ -13,5 +13,5 @@
 ## 界面介绍
 ### 我的电脑
 <p align=left>
-<img src="image/TIM截图20190828155827.png" width=300px /><img src="image/TIM截图20190828160021.png" width=300px />
+	<img src="image/20190828155827.png" width=300px /><img src="image/20190828160021.png" width=300px />
 </p>
