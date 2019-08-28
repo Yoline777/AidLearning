@@ -12,6 +12,7 @@
 也可以去 [Github主页](https://github.com/aidlearning/AidLearning-FrameWork)或者[官网](http://www.aidlearning.net)进行下载
 ## 界面介绍
 ### 我的电脑
+
 <p align=left>
-	<img src="image/20190828155827.png" width=300px /><img src="image/20190828160021.png" width=300px />
+	<img src="image/20190828155827.png" width="300" /><img src="image/20190828160021.png" width="300" />
 </p>
