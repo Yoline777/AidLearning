@@ -8,7 +8,7 @@
 <p align="center">
 	<img src="images/Screenshot_20190828-152555.jpg"  width="320" >
 </p>
-也可以去[Github主页](https://github.com/aidlearning/AidLearning-FrameWork)或者[官网](http://www.aidlearning.net)进行下载
+[Cas University](http://english.cas.cn)也可以去[Github主页](https://github.com/aidlearning/AidLearning-FrameWork)或者[官网](http://www.aidlearning.net)进行下载
 ## 界面介绍
 ### 我的电脑
 <p align=left>
