@@ -24,35 +24,35 @@
 ## 界面介绍
 ### 我的电脑
 <p align=left>
-	<img src="images/20190828155827.png" width="300" height="600" /><img src="images/20190828160021.png" width="300" height="600"/>
+	<img src="images/20190828155827.png" width="300" height="600" border="1"/><img src="images/20190828160021.png" width="300" height="600" border="1"/>
 </p>
 
 ### AidCode
 <p align=left>
-	<img src="images/20190828162306.png" width="300" height="600" /><img src="images/20190828162605.png" width="300" height="600"/>
+	<img src="images/20190828162306.png" width="300" height="600" border="1"/><img src="images/20190828162605.png" width="300" height="600" border="1"/>
 </p>
 
 ### 终端
 <p align=left>
-	<img src="images/20190828163440.png" width="300" height="600" /><img src="images/20190828163550.png" width="300" height="600"/>
+	<img src="images/20190828163440.png" width="300" height="600" border="1"/><img src="images/20190828163550.png" width="300" height="600" border="1"/>
 </p>
 
 ### 其他
 下图右边为更新界面，可以自定义资源包，减少下载时间，后续会有更详细的资源包列表。
 <p align=left>
-	<img src="images/20190828164223.png" width="300" height="600" /><img src="images/20190828164305.png" width="300" height="600"/>
+	<img src="images/20190828164223.png" width="300" height="600" /><img src="images/20190828164305.png" width="300" height="600" border="1"/>
 </p>
 
 ## 使用说明
 ### 下载安装
 第一次运行程序，会自动下载配置基本资源包
 <p align=left>
-	<img src="images/Screenshot_20190828-153432.jpg" width="300" height="600" /><img src="images/Screenshot_20190828-153558.jpg" width="300" height="600"/>
+	<img src="images/Screenshot_20190828-153432.jpg" width="300" height="600" border="1"/><img src="images/Screenshot_20190828-153558.jpg" width="300" height="600" border="1"/>
 </p>
 
 ### AidCode介绍
 <p align=left>
-	<img src="images/20190828183906.png" width="300" height="600" /><img src="images/Wizard.gif" width="300" height="600"/>
+	<img src="images/20190828183906.png" width="300" height="600" border="1"/><img src="images/Wizard.gif" width="300" height="600" border="1"/>
 </p>
 
 ### 电脑通过ssh连接
@@ -77,7 +77,7 @@ AidLearning中的sdcard映射到手机的sdcard，AidLearning与手机之间的�
 ## 使用样列
 ### 运行姿态检测
 <p align=left>
-	<img src="images/20190829090203.png" width="280" height="560" /><img src="images/20190829090032.png" width="280" height="560"/><img src="images/20190829090335.png" width="280" height="560"/>
+	<img src="images/20190829090203.png" width="280" height="560" border="1"/><img src="images/20190829090032.png" width="280" height="560" border="1"/><img src="images/20190829090335.png" width="280" height="560" border="1" alt="运行效果"/>
 </p>
 
 ### 借助AidCode写HelloWorld
