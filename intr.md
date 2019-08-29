@@ -10,7 +10,7 @@
 	* <a href='#下载安装'>下载安装</a>
 	* <a href='#AidCode介绍'>AidCode介绍</a>
 	* <a href='#电脑通过ssh连接'>电脑通过ssh连接</a>
-* <a href='#使用样列'>⚘ 使用样列</a>
+* <a href='#使用样例'>⚘ 使用样例</a>
 	* <a href='#运行姿态检测'>运行姿态检测</a>
 	* <a href='#借助AidCode写HelloWorld'>借助AidCode写HelloWorld</a>
 
@@ -74,7 +74,7 @@ AidLearning中的sdcard映射到手机的sdcard，AidLearning与手机之间的�
 	<img src="images/fileupload.png">
 </p>
 
-## 使用样列
+## 使用样例
 ### 运行姿态检测
 <p align=left>
 	<img src="images/20190829090203.png" width="280" height="560" hspace="3"/><img src="images/20190829090032.png" width="280" height="560" hspace="3"/><img src="images/20190829090335.png" width="280" height="560" hspace="3" alt="运行效果"/>
