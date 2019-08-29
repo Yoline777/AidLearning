@@ -77,11 +77,11 @@ AidLearning中的sdcard映射到手机的sdcard，AidLearning与手机之间的�
 ## 使用样列
 ### 运行姿态检测
 <p align=left>
-	<img src="images/20190829090203.png" width="300" height="600" /><img src="images/20190829090032.png" width="300" height="600"/><img src="images/20190829090335.png" width="300" height="600"/>
+	<img src="images/20190829090203.png" width="280" height="560" /><img src="images/20190829090032.png" width="280" height="560"/><img src="images/20190829090335.png" width="280" height="560"/>
 </p>
 
 ### 借助AidCode写_Hello World_
-![wizard](img/wizard.png)
+![wizard](images/wizard.png)
 
 您可以从组件工具箱（在屏幕左侧）中，选择要添加到界面的UI组件。选择一个组件，您必须填写分配该组件所需的一些字段。除了构造函数参数之外，还需要一些其他信息：
 
@@ -109,43 +109,43 @@ HBox和VBox容器**不允许**手动拖动和调整窗口小部件的大小。�
 
 首先，我们必须先选择一个容器，我们从左侧工具箱中选择Widget组件。这将是我们的主要窗口。在显示的对话框中，我们必须为变量写一个名称。我们将其称为_mainContainer_。
 
-![new_container](img/new_container.png)
+![new_container](images/new_container.png)
 
 然后，将组件Widget添加到编辑器后，您可以拖动它并调整其大小。
 
-![drag_resize_container](img/drag_resize_container.png)
+![drag_resize_container](images/drag_resize_container.png)
 
 现在，从左侧工具箱中选择Label组件。同样，我们必须为此组件键入变量名称。
 
-![new_label](img/new_label.png)
+![new_label](images/new_label.png)
 
 然后，我们可以通过单击右侧的选择Label来拖动和调整大小。
 
-![chooselabel](img/chooselabel.png)
+![chooselabel](images/chooselabel.png)
 
 我们需要一个Button。由于我们想将它添加到mainContainer，我们必须通过单击右侧的mainContainer来选择这个容器。
 
-![choosecontainer](img/choosecontainer.png)
+![choosecontainer](images/choosecontainer.png)
 
 之后，单击左侧工具箱中的Button小部件。输入变量名称确定添加后，并拖动和调整大小。
 
-![resizebt](img/resizebt.png)
+![resizebt](images/resizebt.png)
 
 现在，假如已经添加完了所有必需的组件。我们必须将_onclick_事件从按钮连接到监听器，在我们的示例中，监听器将是主App。
 
-![onclick](img/onclick.png)
+![onclick](images/onclick.png)
 
 完成所有操作后，通过上方菜单栏保存项目。
 
-![saveas](img/saveas.png)
+![saveas](images/saveas.png)
 
 选择目标文件夹。输入py文件名并确认。
 
-![hello](img/hello.png)
+![hello](images/hello.png)
 
 我们现在可以点击菜单中的**code**按钮查看和编辑刚才wizard生成的代码，例如添加点击按钮消息，改变My label的值 为**Hello World**。
 
-![aicode](img/aicode.png)
+![aicode](images/aicode.png)
 
 生成的代码如下：
 
@@ -207,4 +207,4 @@ if __name__ == "__main__":
 
 再次保存后，运行界面如下：
 
-![sayhello](img/sayhello.png)
+![sayhello](images/sayhello.png)
