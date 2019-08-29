@@ -12,7 +12,7 @@
 	* <a href='#电脑通过ssh连接'>电脑通过ssh连接</a>
 * <a href='#使用样列'>⚘ 使用样列</a>
 	* <a href='#运行姿态检测'>运行姿态检测</a>
-	* <a href='#借助AidCode写_Hello World_'>借助AidCode写_Hello World_</a>
+	* <a href='#借助AidCode写HelloWorld'>借助AidCode写HelloWorld</a>
 
 ## 下载
 可以在各大手机应用市场或者Github上搜索AidLearning下载。
@@ -80,7 +80,7 @@ AidLearning中的sdcard映射到手机的sdcard，AidLearning与手机之间的�
 	<img src="images/20190829090203.png" width="280" height="560" /><img src="images/20190829090032.png" width="280" height="560"/><img src="images/20190829090335.png" width="280" height="560"/>
 </p>
 
-### 借助AidCode写_Hello World_
+### 借助AidCode写HelloWorld
 ![wizard](images/wizard.png)
 
 您可以从组件工具箱（在屏幕左侧）中，选择要添加到界面的UI组件。选择一个组件，您必须填写分配该组件所需的一些字段。除了构造函数参数之外，还需要一些其他信息：
