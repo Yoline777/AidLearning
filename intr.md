@@ -69,7 +69,7 @@ AidLearning中的sdcard映射到手机的sdcard，AidLearning与手机之间的�
 	<img src="images/sdcardshow.png">
 </p>
 
-还可以在电脑上使用AidLearning的文件资源管理进行文件传输，通过浏览器访问**http://手机IP:8080/ **即可使用AidLearning的文件资源管理
+还可以在电脑上使用AidLearning的文件资源管理进行文件传输，通过浏览器访问**`http://手机IP:8080/`**即可使用AidLearning的文件资源管理
 <p align=left>
 	<img src="images/fileupload.png">
 </p>
